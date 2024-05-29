@@ -34,7 +34,7 @@
   - <b></b>
 
 - <b>Resources</b>
-  - <b></b>
+  - <a href="https://www.youtube.com/watch?v=zgqfWLHNKLk&list=PLqBeiU46hx1H--SNfTrohTOWeqkK-M2Y0&index=10">How to Create a Github Portfolio </a>
 
 
 <h2> 🤳 Connect with me:</h2>
