@@ -1,6 +1,6 @@
 # Hi, I'm Dhan 👋🏻
 
-## **I'm a Army Veteran, System Administrator, and a MSSA.**
+## **I'm Army Veteran, System Administrator, and a MSSA.**
 - 🗣 I do system administration in United States Army Reserve. where I responsible of battalion communications, ensuring seamless connectivity and secure networks to keep the mission on track. 
 - 🚀 I am skilled in Microsoft Azure Cloud Administration, Hybrid Server Administration, Virtualization and Linux Systems.
 - 🤝🏻 I am passionate in computer system automation and always eager to learn.
@@ -26,7 +26,6 @@
 ##  **My Training 🏅**
 - [Microsoft learn Achievement](https://learn.microsoft.com/en-us/users/dhanprasadkoirala-0496/achievements)
 
-- [Linkedin Learning](https://www.linkedin.com/learning/me/my-library/completed)
 
 - [Skillsoft Badges](https://skillsoft.digitalbadges.skillsoft.com/profile/dhanprasadkoirala651590/wallet#gs.f4g326)
 
