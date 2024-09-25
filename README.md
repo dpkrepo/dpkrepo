@@ -16,6 +16,7 @@
 
 
 ##  **My Certifications 🏅**
+
 - [CompTIA Certified: IT Fundamentals+](https://www.credly.com/badges/37656f4f-5651-43dd-99b7-22dd918e6d34)
 
 - [CompTIA Certified: Linux+ CE](https://www.credly.com/earner/earned/badge/82c982d8-84b4-4889-9e57-7ffd9ba7cd42)
@@ -25,11 +26,13 @@
 - See all my Certifications here 👉🏻 [Credly](https://www.credly.com/users/dhan-prasad-koirala)
 
 
-##  **My Training 🏅**
-- [Microsoft learn Achievement](https://learn.microsoft.com/en-us/users/dhanprasadkoirala-0496/achievements)
+##  **My Learning 🏅**
 
+- [Microsoft Learn Achievement](https://learn.microsoft.com/en-us/users/dhanprasadkoirala-0496/achievements)
 
-- [Skillsoft Badges](https://skillsoft.digitalbadges.skillsoft.com/profile/dhanprasadkoirala651590/wallet#gs.f4g326)
+- [SkillSoft Badges](https://skillsoft.digitalbadges.skillsoft.com/profile/dhanprasadkoirala651590/wallet#gs.f4g326)
+
+- [SkillSoft Transcripts](https://skillsoft.digitalbadges.skillsoft.com/profile/dhanprasadkoirala651590/transcript#gs.f4eevy)
 
 
 
