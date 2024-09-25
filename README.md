@@ -10,7 +10,7 @@
 - ✍🏼 I enrolled in Microsoft Software & Systems Academy for Sep 2024 to January 2025 cohort and my learning path is Server & Cloud Administrator.
 
 
-<h2>Techology Stack and Experience 💻</h2>
+<h2>Techology Experience 🖥️</h2>
 
 <p>
   
