@@ -15,8 +15,10 @@
 <p>
   
 
+   <img alt="Windows" src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white" width="100" height="30" />
+      <img alt="MS365" src="https://img.shields.io/badge/Microsoft365-666666?style=for-the-badge&logo=Microsoft365&logoColor=white" width="100" height="30" />
+    <img alt="Github" src="https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=Github&logoColor=white" width="100" height="30"/>
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" width="70" height="30" />
-  <img alt="Github" src="https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=Github&logoColor=white" width="100" height="30"/>
   <img alt="Gitlab" src="https://img.shields.io/badge/GitLab-%23323330.svg?style=flat-square&logo=Gitlab&logoColor=%23F7DF1E" width="80" height="30"/>
   <img alt="Microsoft Azure" src="https://img.shields.io/badge/AZURE-%23FF9900.svg?style=flat-square&logo=Azure&logoColor=blue" width="80" height="30"/>
   <img alt="AWS" src="https://img.shields.io/badge/AWS-%569A31.svg?style=flat-square&logo=amazon&logoColor=white" width="110" height="30"/>
@@ -28,8 +30,8 @@
   <img alt="kubernetes"src="https://img.shields.io/badge/Kubernetes-326ce5.svg?&style=flat-square&logo=Kubernetes&logoColor=white" width="130" height="30"/>
   <img alt="vmware"src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=VMware&logoColor=white" width="110" height="30"/> 
   <img alt="YAML" src="https://img.shields.io/badge/-Yaml-F05032?style=flat-square&logo=Yaml&logoColor=white" width="80" height="30" />
-  <img alt="Windows" src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white" width="100" height="30" />
-    <img alt="terraform" src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=Terraform&logoColor=white" width="110" height="30" />
+  
+  <img alt="terraform" src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=Terraform&logoColor=white" width="110" height="30" />
 </p>
 
 ## **Connect with Me On Social Media** 🤝🏻
