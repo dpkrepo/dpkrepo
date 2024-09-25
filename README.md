@@ -18,8 +18,8 @@
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" width="70" height="30" />
   <img alt="Github" src="https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=Github&logoColor=white" width="100" height="30"/>
   <img alt="Gitlab" src="https://img.shields.io/badge/GitLab-%23323330.svg?style=flat-square&logo=Gitlab&logoColor=%23F7DF1E" width="80" height="30"/>
-  <img alt="Microsoft Azure" src="https://img.shields.io/badge/AZURE-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=blue" width="80" height="30"/>
-  <img alt="s3" src="https://img.shields.io/badge/AmazonS3-%569A31.svg?style=flat-square&logo=amazons3&logoColor=white" width="110" height="30"/>
+  <img alt="Microsoft Azure" src="https://img.shields.io/badge/AZURE-%23FF9900.svg?style=flat-square&logo=Azure&logoColor=blue" width="80" height="30"/>
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-%569A31.svg?style=flat-square&logo=amazon&logoColor=white" width="110" height="30"/>
   <img alt="VSCode" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" width="120" height="30"/>
   <img alt="Shell Scripting" src="https://img.shields.io/badge/Shell_script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white" width="130" height="30"/>
   <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" width="100" height="30"/>
