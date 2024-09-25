@@ -1,7 +1,7 @@
 # Hi, I'm Dhan 👋🏻
 
 ## **I'm an Army Veteran, System Administrator, and a MSSA.**
-- 🗣 I do system administration in United States Army Reserve. where my team is  responsible of battalion communications systems, ensuring seamless connectivity and secure networks to keep the mission on track.
+- 🗣 I do system administration in United States Army Reserve. where my team is responsible for battalion communications systems, ensuring seamless connectivity and secure networks to keep the mission on track.
   
 - 🚀 I am specialize in Microsoft Azure Cloud Administration, Hybrid Server Administration, Virtualization and Linux Systems.
   
@@ -34,7 +34,7 @@
   <img alt="terraform" src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=Terraform&logoColor=white" width="110" height="30" />
 </p>
 
-## **Connect with Me On Social Media** 🤝🏻
+## **Me On Social Media** 🤝🏻
 
 <h3 align="left">
 <a href="https://www.linkedin.com/in/dpk1/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
