@@ -7,6 +7,9 @@
   
 - 🤝🏻 I have a deep passion for the computer systems, particularly in optimizing and managing the Servers and operating systems, and always eager to learn the latest technologies and best practices.
 
+- ✍🏼 I enrolled in Microsoft Software & Systems Academy for Sep 2024 to January 2025 cohort and my learning path is Server & Cloud Administrator.
+
+
 ## **Connect with Me On Social Media** 🤝🏻
 
 <h3 align="left">
