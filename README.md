@@ -26,6 +26,7 @@
   <img alt="Shell Scripting" src="https://img.shields.io/badge/Shell_script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white" width="130" height="30"/>
   <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" width="100" height="30"/>
   <img alt="Red Hat" src="https://img.shields.io/badge/RedHat-E95420?style=flat-square&logo=redhat&logoColor=white" width="100" height="30"/>
+  <img alt="PROXMOX" src="https://img.shields.io/badge/ProxMox-E95420?style=flat-square&logo=Proxmox&logoColor=white" width="100" height="30"/>
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" width="90" height="30"/>
   <img alt="kubernetes"src="https://img.shields.io/badge/Kubernetes-326ce5.svg?&style=flat-square&logo=Kubernetes&logoColor=white" width="130" height="30"/>
   <img alt="vmware"src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=VMware&logoColor=white" width="110" height="30"/> 
