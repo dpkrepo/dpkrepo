@@ -1,9 +1,9 @@
 # Hi, I'm Dhan 👋🏻
 
 ## **I'm an Army Veteran, System Administrator, and a MSSA.**
-- 🗣 I do system administration in US Army Reserve, where my team is responsible for battalion communications systems, ensuring seamless connectivity and secure networks to keep the mission on track.
+- 🗣 I do system administration in US Army Reserve, where my team is responsible for battalion computer systems, ensuring cyber compliance, Provisioning user access to systems, help desk support and secure networks.
   
-- 🚀 I am specialize in Microsoft Cloud & Hybrid Server Administration, and Virtualization ( i.e Hyper-V)
+- 🚀 I am specialize in Microsoft Cloud & Hybrid Server Administration.
   
 - 🤝🏻 I have a deep passion for the computer systems, particularly in optimizing and managing the Servers and operating systems, and always eager to learn the latest technologies and best practices. I do programming for fun !
 
