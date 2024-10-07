@@ -51,6 +51,8 @@
 
 - [CompTIA Certified: Security+ CE](https://www.credly.com/earner/earned/badge/bb6e8668-9b48-491c-9993-80c71cae7d43)
 
+- [Microsoft Azure Fundamentals (Az-900)](https://learn.microsoft.com/api/credentials/share/en-us/Dhanprasadkoirala-0496/8085916026A6F626?sharingId=46846D142471C794)
+
 - See all my Certifications here 👉🏻 [Credly](https://www.credly.com/users/dhan-prasad-koirala)
 
 
