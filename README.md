@@ -8,7 +8,7 @@
 - 🤝🏻 I have a deep passion for the computer systems, particularly in optimizing and managing the Servers and operating systems through Active Directory, and always eager to learn the latest technologies and best practices. I do programming for fun ! Currently I am learning C#.
 
 - ✍🏼 I enrolled in Microsoft Software & Systems Academy for Sep 2024 to January 2025 cohort and my learning path is Server & Cloud Administrator.
-- [View my resume in pdf]()
+- [View my resume in pdf](https://github.com/dpkrepo/AzureResume/blob/main/DhanprasadKoiralaAzCldEng.pdf)
 
 
 <h2>Techology Experience 🖥️</h2>
