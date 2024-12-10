@@ -8,6 +8,7 @@
 - 🤝🏻 I have a deep passion for the computer systems, particularly in optimizing and managing the Servers and operating systems through Active Directory, and always eager to learn the latest technologies and best practices. I do programming for fun ! Currently I am learning C#.
 
 - ✍🏼 I enrolled in Microsoft Software & Systems Academy for Sep 2024 to January 2025 cohort and my learning path is Server & Cloud Administrator.
+- [View my resume in pdf]()
 
 
 <h2>Techology Experience 🖥️</h2>
@@ -45,7 +46,7 @@
 
 ##  **My Certifications 🏅**
 
-- [CompTIA Certified: IT Fundamentals+](https://www.credly.com/badges/37656f4f-5651-43dd-99b7-22dd918e6d34)
+- DhanprasadKoiralaAzCldEng.pdf
 
 - [CompTIA Certified: Linux+ CE](https://www.credly.com/earner/earned/badge/82c982d8-84b4-4889-9e57-7ffd9ba7cd42)
 
