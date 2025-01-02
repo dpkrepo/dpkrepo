@@ -1,13 +1,13 @@
 # Hi, I'm Dhan 👋🏻
 
 ## **I'm an US Army Veteran, System Administrator, MSSA (Microsoft Software & Systems Academy & Engineer.kodekloud DevOps Engineering practicener)**
-- 🗣 I do part time system administration in US Army Reserve, where my team is responsible for battalion computer systems, ensuring cyber compliance, Provisioning user access to systems, help desk support and secure networks.
+- 🗣 I do part time system administration in US Army Reserve,(One weekend/month) Currently attending highly prestigious MSSA Program (server & cloud Administration) will be graduate in 17th January 2025, and I sharpen my DevOps skills in KodeKloud Engineer platform.
   
 - 🚀 I am skilled in DevOps tools like Docker, Ansible, Kubernetes, Linux, windows, Git, Jenkins, Terraform, GitHub, VS Code, Azure and AWS. I build this skills some from privious IT positions, mostly from self learning and practice in platforms like MSSA, kodekloud & my own home lab.
   
 - 🤝🏻 I enjoy finding the solution through solving the problems.
 
-- ✍🏼 I am a MSSA Alumuni & Junior DevOps Engineer with (60000+) Experience points in KodeKloud Engineer.
+- ✍🏼 Junior DevOps Engineer with (60000+) Experience points in KodeKloud Engineer.
 
 
 <h2>Techology Experience 🖥️</h2>
