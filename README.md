@@ -8,7 +8,6 @@
 - 🤝🏻 I enjoy finding the solution through solving the problems.
 
 - ✍🏼 I am a MSSA Alumuni & Junior DevOps Engineer with (60000+) Experience points in KodeKloud Engineer.
-- [View my resume in pdf](https://github.com/dpkrepo/AzureResume/blob/main/DhanprasadKoiralaAzCldEng.pdf)
 
 
 <h2>Techology Experience 🖥️</h2>
