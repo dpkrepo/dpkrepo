@@ -1,13 +1,13 @@
 # Hi, I'm Dhan 👋🏻
 
-## **I'm an Army Veteran, System Administrator, and a MSSA (Microsoft Software & Systems Academy )**
+## **I'm an US Army Veteran, System Administrator, MSSA (Microsoft Software & Systems Academy & Engineer.kodekloud DevOps Engineering practicener)**
 - 🗣 I do part time system administration in US Army Reserve, where my team is responsible for battalion computer systems, ensuring cyber compliance, Provisioning user access to systems, help desk support and secure networks.
   
-- 🚀 I am specialize in Microsoft Cloud & Hybrid Server Administration and focus on Active Directory.
+- 🚀 I am skilled in DevOps tools like Docker, Ansible, Kubernetes, Linux, windows, Git, Jenkins, Terraform, GitHub, VS Code, Azure and AWS. I build this skills some from privious IT positions, mostly from self learning and practice in platforms like MSSA, kodekloud & my own home lab.
   
-- 🤝🏻 I have a deep passion for the computer systems, particularly in optimizing and managing the Servers and operating systems through Active Directory, and always eager to learn the latest technologies and best practices. I do programming for fun ! Currently I am learning C#.
+- 🤝🏻 I enjoy finding the solution through solving the problems.
 
-- ✍🏼 I enrolled in Microsoft Software & Systems Academy for Sep 2024 to January 2025 cohort and my learning path is Server & Cloud Administrator.
+- ✍🏼 I am a MSSA Alumuni & Junior DevOps Engineer with (60000+) Experience points in KodeKloud Engineer.
 - [View my resume in pdf](https://github.com/dpkrepo/AzureResume/blob/main/DhanprasadKoiralaAzCldEng.pdf)
 
 
