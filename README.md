@@ -43,6 +43,7 @@
 
 
 
+
 ##  **My Certifications 🏅**
 
 - DhanprasadKoiralaAzCldEng.pdf
@@ -57,6 +58,8 @@
 
 
 ##  **My Learning 🏅**
+
+- [Microsoft Learn Transcript](https://learn.microsoft.com/en-us/users/dhanprasadkoirala-0496/transcript/v0yy3bqxkgmlj3e?WT.mc_id=ilt_partner_webpage_wwl&ocid=4183894&source=learn&redeem=RN8D6G)
 
 - [Microsoft Learn Achievement](https://learn.microsoft.com/en-us/users/dhanprasadkoirala-0496/achievements)
 
