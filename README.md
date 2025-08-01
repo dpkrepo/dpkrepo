@@ -1,13 +1,14 @@
-# Hi, I'm Dhan 👋🏻
+# Hi, I'm Dhan Koirala 👋🏻
 
 ## **I'm an US Army Veteran, System Administrator, MSSA (Microsoft Software & Systems Academy & Engineer.kodekloud DevOps Engineering practitioner)**
-- 🗣 I do part time system administration in US Army Reserve,(One weekend/month) Currently attending highly prestigious MSSA Program (server & cloud Administration) will be graduate in 17th January 2025, and I sharpen my DevOps skills in KodeKloud Engineer platform.
-  
-- 🚀 I am skilled in DevOps tools like Docker, Ansible, Kubernetes, Linux, windows, Git, Jenkins, Terraform, GitHub, VS Code, Azure and AWS. I build this skills some from privious IT positions, mostly from self learning and practice in platforms like MSSA, kodekloud & my own home lab.
-  
-- 🤝🏻 I enjoy finding the solution through solving the problems.
+Windows System Administration Mastery
+- Expert in Active Directory Domain Services (AD DS): Proficient in creating and managing Domain Controllers (DCs), deploying Read-Only Domain Controllers (RODCs), and integrating DNS with AD DS for secure and scalable directory services.
+- Advanced Group Policy & Security Configuration: Skilled in designing and applying administrative templates, security policies, and access controls to enforce compliance and enhance system manageability across enterprise environments.
+- PowerShell Automation for System Tasks: Automates administrative operations using PowerShell, including user provisioning, system diagnostics, and configuration management, significantly improving operational efficiency and consistency.
+- Certificate Services & Identity Management: Experienced in installing and configuring Certificate Authorities (CAs) using Active Directory Administrative Center and PowerShell, enabling secure identity and access management across distributed systems.
+- Network Services Implementation: Successfully planned and deployed IPv4/IPv6 addressing schemes, configured DHCP solutions, and implemented ISATAP routers for seamless cross-protocol communication between geographically dispersed networks.
+- Efficient User & Group Management: Mastered AD DS group creation, nesting, and conversion; utilized user templates for rapid onboarding and resolved computer account issues to maintain domain integrity and user productivity.
 
-- ✍🏼 Junior DevOps Engineer with (60000+) Experience points in KodeKloud Engineer.
 
 
 <h2>Techology Experience 🖥️</h2>
