@@ -1,6 +1,6 @@
 # Hi, I'm Dhan Koirala 👋🏻
 
-## **I'm an US Army Veteran, System Administrator, MSSA (Microsoft Software & Systems Academy & Engineer.kodekloud DevOps Engineering practitioner)**
+## **I'm an US Army Veteran, Currently,I'm working in one of the Cyber Unit in US Army Reserve as a HOST ANALYST. I'm also MSSA (Microsoft Software & Systems Academy & Engineer.kodekloud DevOps Engineering practitioner)**
 Windows System Administration Mastery
 - Expert in Active Directory Domain Services (AD DS): Proficient in creating and managing Domain Controllers (DCs), deploying Read-Only Domain Controllers (RODCs), and integrating DNS with AD DS for secure and scalable directory services.
 - Advanced Group Policy & Security Configuration: Skilled in designing and applying administrative templates, security policies, and access controls to enforce compliance and enhance system manageability across enterprise environments.
